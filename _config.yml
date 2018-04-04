@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: hades Blog
+SEOTitle: hades的博客 | hades Blog
 header-img: img/post-bg-desk.jpg
 email: hades2013ac@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://hades2013.github.io"          # your host, for absolute URL
+keyword: "hades, hades Blog, hades的博客, hades, iOS, Apple, iPhone"
+url: "https://hades2013.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hades2013/hades2013.github.io.git" # you code repository
 
